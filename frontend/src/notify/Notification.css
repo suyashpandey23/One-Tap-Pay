@@ -1,0 +1,19 @@
+/* Notification.css */
+.notification-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    z-index: 1000;
+    width: calc(100% - 40px);
+    max-width: none;
+}
+
+@media (min-width: 768px) {
+    .notification-container {
+        width: 300px;
+        max-width: 500px;
+    }
+}
