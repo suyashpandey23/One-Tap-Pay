@@ -1065,16 +1065,4 @@ This project is created for educational purposes.
 
 ---
 
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
-## 📧 Contact
-
-For questions or suggestions, please reach out to the development team.
-
----
-
 **Happy Learning! 🚀**
