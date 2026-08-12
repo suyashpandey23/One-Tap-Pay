@@ -75,7 +75,6 @@ The application emphasizes **atomic transactions**, **data consistency**, and **
 ---
 
 ## ✨ Features
-
 ### 1. **User Authentication & Management**
 - Email-based user registration with validation
 - Secure password hashing using bcrypt (10 salt rounds)
