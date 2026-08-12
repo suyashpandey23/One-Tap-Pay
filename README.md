@@ -1,7 +1,7 @@
 
 # Temp Money Transfer Application
 
-A full-stack digital payment application that mimics real-world payment platforms like PayTM. This project demonstrates secure money transfers, user authentication, transaction management, and database transaction handling.
+A full-stack digital payment application that mimics real-world payment platforms like googlepay. This project demonstrates secure money transfers, user authentication, transaction management, and database transaction handling.
 
 ## 📋 Table of Contents
 
